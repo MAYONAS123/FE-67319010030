@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <title>My home</title>
+    <style>
+        h1,h2,h3,h4,h5,h6{
+            font-family: "Chakra Petch", sans-serif;
+            font-weight: bolder;
+        }
+        h2{
+            padding: 20px;
+            background-color:#FFF6E9 ;
+            text-align: center;
+            font-size: 50px;
+        }
+        body{
+            background-color:#40A2E3;
+            color:#BBE2EC ;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>OHHHHHH!! </h2>
+    <h2>OHHHH MY GODDDDD!!!</h2>
+    <br>
+    <hr>
+    <h2><a target="_blank" href="https://github.com/MAYONAS123/FE-67319010030">Try it if you want</a>
+</h2>
+ <img height="500px" width="700px" src="imges/omg-oh-my-god.gif" alt>
+ <img height="500px" width="700px" src="imges/wee-bey-gif-11.gif" alt>
+</body>
+ 
+</html>
