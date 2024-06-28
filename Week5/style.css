@@ -1,0 +1,39 @@
+.name {
+    background-color: #ffffff;
+    color: #5AB2FF;
+    font-size: 15px;
+}
+
+.password {
+    background-color: #ffffff;
+    color: #5AB2FF;
+    font-size: 15px;
+}
+.date{
+    background-color: #ffffff;
+    color: #5AB2FF;
+    font-size: 20px;
+}
+.number{
+    background-color: #ffffff;
+    color: #5AB2FF;
+    font-size: 15px;
+}
+.genders{
+    background-color: #ffffff;
+    color: #5AB2FF;
+    font-size: 20px;
+}
+.color{
+    background-color: #ffffff;
+    color: #5AB2FF;
+    font-size: 20px;
+}
+fieldset{
+    border: 0 none;
+}
+.checbox{
+    background-color: #ffffff;
+    color: #5AB2FF;
+    font-size: 20px;
+}

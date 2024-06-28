@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <form action="auth.php" method="get">
+        <input type="text" class="name" name="fullname"><br>
+        <input type="password" class="password" name="pass"><br>
+        <input type="date" class="date" name="dateofbirth"><br>
+        <input type="number" class="number" min="1" max="90" name="num1"><br>
+        <fieldset class="genders">
+            <input type="radio" name="gender" value="Male">ผู้ชาย
+            <input type="radio" name="gender" value="Female">ผู้หญิง
+            <input type="radio" name="gender" value="Ladyboy">กระเทย
+            <input type="radio" name="gender" value="Tomboy">ทอม
+            <input type="radio" name="gender" value="Femboy">ผู้หญิงมีไข่
+        </fieldset><br>
+        <select  name="color" class="color" id=""><br>
+            <option value="white">ขาว</option>
+            <option value="red">แดง</option>
+            <option value="pink">ชมพู</option>
+            <option value="black">ดำ</option>
+            <option value="purple">ม่วง</option>
+            <option value="orrnge">ส้ม</option>
+            <option value="green">เขียว</option>
+            <option value="blue">ฟ้า</option>
+        </select> 
+    <fieldset class="checkbox">
+        <input type="checkbox" name="hobby" value="play game"> play game
+        <input type="checkbox" name="hobby" value="die"> die
+        <input type="checkbox" name="hobby" value="play with cat"> play with cat
+        <input type="checkbox" name="hobby" value="eat">eat
+    </fieldset><br>
+        <input type="reset">
+        <input type="submit">
+    </form>
+    <a href="http://google.com? test=123456123456">google</a>
+</body>
+
+
+
+</html>
